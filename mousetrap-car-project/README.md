@@ -22,3 +22,5 @@ The project includes:
 
 ## Status
 Project completed as part of a course module. Open to future improvements and redesigns.
+
+[Download the Mousetrap Car Project PDF](./Complete_Mousetrap_Car_Project.pdf)
